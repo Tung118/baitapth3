@@ -33,6 +33,6 @@ int main()
 			}
 		}
 	}
-	cout << "no";
+	cout << "nono";
 	return 0;
 }
